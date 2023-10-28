@@ -1,2 +1,1 @@
-
-![ ]([https://raw.githubusercontent.com/ShadowsIndeedWhisper/Indigo/main/src/blob/images/indigoBannerA.png?raw=true]) 
+![Indigo Banner](https://github.com/ShadowsIndeedWhisper/Indigo/blob/src/blob/images/indigoBannerA.png)

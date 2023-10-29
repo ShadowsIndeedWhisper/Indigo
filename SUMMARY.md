@@ -6,4 +6,4 @@
 
 ## Guide
 
-* [Page 1](guide/page-1.md)
+* [Indigo Installation](guide/indigo-installation.md)

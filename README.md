@@ -4,7 +4,11 @@ description: Indigo
 
 # Home
 
-Indigo is a _simple GUI Library_ made for _ROBLOX_, inspired by [Roact](https://roblox.github.io/roact/). The documentation here is centred around **Indigo**, and not Roact. Although small, Indigo is capable of many things.
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Indigo is a light-weight, _simple GUI Library_ made for _ROBLOX_, inspired by [Roact](https://roblox.github.io/roact/). The documentation here is centred around **Indigo**, and not Roact. Although small, Indigo is capable of many things.
 
 
 

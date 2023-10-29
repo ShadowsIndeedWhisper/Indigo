@@ -1,20 +1,15 @@
-![Indigo Banner](https://raw.githubusercontent.com/ShadowsIndeedWhisper/Indigo/main/src/blob/images/indigoBannerA.png)
+---
+description: Indigo
+---
 
-## Indigo
+# Home
 
-Indigo is a light-weight, open -sourced, easy to use UI Library for ROBLOX. Indigo is based on ROBLOX React, another popular Library. 
+Indigo is a _simple GUI Library_ made for _ROBLOX_, inspired by [Roact](https://roblox.github.io/roact/). The documentation here is centred around **Indigo**, and not Roact. Although small, Indigo is capable of many things.
 
-## Why Indigo?
 
-Whilst Roact offers more features, this serves as an alternative that is easier and simpler to use. It retains functions from Roact such as:
-  * Creating Elements (Properties, children, and events)
-  * Mounting Elements
-  * Unmounting Elements
-  * Updating Elements
-  * Creating and Running Components
-  * Hydrating
 
-    ## How do I use Indigo?
 
-Indigo is meant to be easy to setup and use. You can find the Open - Source documentation within this github. Indigo bundles with only a few (but powerfull) functions,
-that can be used to create anything you want.
+
+{% hint style="info" %}
+The documentation for Indigo requires you to have some knowledge with lua. I reccomend you learn the basics of lua first before using Indigo.
+{% endhint %}

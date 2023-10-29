@@ -12,8 +12,4 @@ Indigo is a light-weight, _simple GUI Library_ made for _ROBLOX_, inspired by [R
 
 
 
-
-
-{% hint style="info" %}
-The documentation for Indigo requires you to have some knowledge with lua. I reccomend you learn the basics of lua first before using Indigo.
-{% endhint %}
+**The documentation for Indigo requires you to have some knowledge with lua. I reccomend you learn the basics of lua first before using Indigo.**
